@@ -2,6 +2,32 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## About project
+
+This repository was created in order to show how we can create a frontend application with reusable components.
+
+We'll build an app using the public github API. 
+
+Project developed from Digital Innovation One classes and [playlist](https://bitly.com/playlist-interface-componentizada) created by [Matheus Benites](https://github.com/benits).
+
+### Features
+
+- Search infos by username
+- Search repo by username
+- Search starred by username
+
+### Preview
+
+Print of the finished project.
+
+![plot](src/.github/imagem.png)
+
+### Libraries used
+
+- [axios](https://www.npmjs.com/package/axios)
+- [react-tabs](https://www.npmjs.com/package/react-tabs)
+- [styled-components](https://styled-components.com/)
+
 ## Available Scripts
 
 In the project directory, you can run:
